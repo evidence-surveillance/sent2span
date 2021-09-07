@@ -3,6 +3,7 @@
 Sent2Span is a tool for PICO span detection.
 Compared with previous methods, Sent2Span does not require span-level annotation data and uses
 only crowdsourced sentence-level annotations.
+[arXiv link](https://arxiv.org/abs/2109.02254)
 
 
 ## Model Structure
